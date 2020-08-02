@@ -1,0 +1,920 @@
+[
+  {
+    parkcode: "acad",
+    name: "Acadia National Park",
+    location: "44.3386, -68.2733",
+    campsites: 100
+  },
+  {
+    parkcode: "alag",
+    name: "Alagnak Wild River",
+    location: "59.0047, -156.8603",
+    campsites: 115
+  },
+  {
+    parkcode: "alfl",
+    name: "Alibates Flint Quarries National Monument",
+    location: "35.5836, -101.6698",
+    campsites: 125
+  },
+  {
+    parkcode: "alka",
+    name: "Ala Kahakai National Historic Trail",
+    location: "19.6868, -156.0326",
+    campsites: 150
+  },
+  {
+    parkcode: "amis",
+    name: "Amistad National Recreation Area",
+    location: "29.4956, -100.9953",
+    campsites: 100
+  },
+  {
+    parkcode: "ania",
+    name: "Aniakchak National Monument & Preserve",
+    location: "56.9036, -158.099",
+    campsites: 115
+  },
+  {
+    parkcode: "anti",
+    name: "Antietam National Battlefield",
+    location: "39.4687, -77.7388",
+    campsites: 125
+  },
+  {
+    parkcode: "apis",
+    name: "Apostle Islands National Lakeshore",
+    location: "46.9302, -90.6333",
+    campsites: 150
+  },
+  {
+    parkcode: "appa",
+    name: "Appalachian National Scenic Trail",
+    location: "39.3254, -77.7405",
+    campsites: 100
+  },
+  {
+    parkcode: "arch",
+    name: "Arches National Park",
+    location: "38.7331, -109.5925",
+    campsites: 115
+  },
+  {
+    parkcode: "asis",
+    name: "Assateague Island National Seashore",
+    location: "38.0608, -75.2362",
+    campsites: 125
+  },
+  {
+    parkcode: "attr",
+    name: "Atchafalaya National Heritage Area",
+    location: "30.3417, -91.72200000000001",
+    campsites: 150
+  },
+  {
+    parkcode: "badl",
+    name: "Badlands National Park",
+    location: "43.8554, -102.3397",
+    campsites: 100
+  },
+  {
+    parkcode: "band",
+    name: "Bandelier National Monument",
+    location: "35.7647, -106.3228",
+    campsites: 115
+  },
+  {
+    parkcode: "bela",
+    name: "Bering Land Bridge National Preserve",
+    location: "65.9259, -164.4378",
+    campsites: 125
+  },
+  {
+    parkcode: "bibe",
+    name: "Big Bend National Park",
+    location: "29.1275, -103.2425",
+    campsites: 150
+  },
+  {
+    parkcode: "bica",
+    name: "Bighorn Canyon National Recreation Area",
+    location: "45.3109, -107.9359",
+    campsites: 100
+  },
+  {
+    parkcode: "bicy",
+    name: "Big Cypress National Preserve",
+    location: "26.0486, -81.0755",
+    campsites: 115
+  },
+  {
+    parkcode: "bisc",
+    name: "Biscayne National Park",
+    location: "25.4824, -80.2083",
+    campsites: 125
+  },
+  {
+    parkcode: "biso",
+    name: "Big South Fork National River & Recreation Area",
+    location: "36.4707, -84.6514",
+    campsites: 150
+  },
+  {
+    parkcode: "bith",
+    name: "Big Thicket National Preserve",
+    location: "0.0, 0.0",
+    campsites: 100
+  },
+  {
+    parkcode: "blac",
+    name: "John H. Chafee Blackstone River Valley National Heritage Corridor",
+    location: "0.0, 0.0",
+    campsites: 115
+  },
+  {
+    parkcode: "blca",
+    name: "Black Canyon Of The Gunnison National Park",
+    location: "38.5754, -107.7416",
+    campsites: 125
+  },
+  {
+    parkcode: "blri",
+    name: "Blue Ridge Parkway",
+    location: "35.7647, -82.2653",
+    campsites: 150
+  },
+  {
+    parkcode: "blrn",
+    name: "Blue Ridge National Heritage Area",
+    location: "35.5659, -82.4865",
+    campsites: 100
+  },
+  {
+    parkcode: "blrv",
+    name: "Blackstone River Valley National Historical Park",
+    location: "0.0, 0.0",
+    campsites: 115
+  },
+  {
+    parkcode: "colm",
+    name: "Colorado National Monument",
+    location: "39.0575, -108.6939",
+    campsites: 125
+  },
+  {
+    parkcode: "boha",
+    name: "Boston Harbor Islands National Recreation Area",
+    location: "42.3602, -71.0524",
+    campsites: 150
+  },
+  {
+    parkcode: "brca",
+    name: "Bryce Canyon National Park",
+    location: "37.593, -112.1871",
+    campsites: 100
+  },
+  {
+    parkcode: "buff",
+    name: "Buffalo National River",
+    location: "35.9829, -92.7548",
+    campsites: 115
+  },
+  {
+    parkcode: "cach",
+    name: "Canyon de Chelly National Monument",
+    location: "36.1336, -109.4694",
+    campsites: 125
+  },
+  {
+    parkcode: "caco",
+    name: "Cape Cod National Seashore",
+    location: "41.9043, -69.9789",
+    campsites: 150
+  },
+  {
+    parkcode: "caha",
+    name: "Cape Hatteras National Seashore",
+    location: "35.2426, -75.5393",
+    campsites: 100
+  },
+  {
+    parkcode: "cakr",
+    name: "Cape Krusenstern National Monument",
+    location: "67.4757, -163.6154",
+    campsites: 115
+  },
+  {
+    parkcode: "calo",
+    name: "Cape Lookout National Seashore",
+    location: "34.6227, -76.5246",
+    campsites: 125
+  },
+  {
+    parkcode: "camo",
+    name: "Castle Mountains National Monument",
+    location: "35.3169, -115.0887",
+    campsites: 150
+  },
+  {
+    parkcode: "cana",
+    name: "Canaveral National Seashore",
+    location: "28.7895, -80.7564",
+    campsites: 100
+  },
+  {
+    parkcode: "cany",
+    name: "Canyonlands National Park",
+    location: "38.3269, -109.8783",
+    campsites: 115
+  },
+  {
+    parkcode: "care",
+    name: "Capitol Reef National Park",
+    location: "38.367, -111.2615",
+    campsites: 125
+  },
+  {
+    parkcode: "cato",
+    name: "Catoctin Mountain Park",
+    location: "39.6341, -77.4502",
+    campsites: 150
+  },
+  {
+    parkcode: "cave",
+    name: "Carlsbad Caverns National Park",
+    location: "32.1479, -104.5567",
+    campsites: 100
+  },
+  {
+    parkcode: "cebr",
+    name: "Cedar Breaks National Monument",
+    location: "37.635999999999996, -112.845",
+    campsites: 115
+  },
+  {
+    parkcode: "chcu",
+    name: "Chaco Culture National Historical Park",
+    location: "36.053000000000004, -107.9559",
+    campsites: 125
+  },
+  {
+    parkcode: "chic",
+    name: "Chickasaw National Recreation Area",
+    location: "34.4615, -97.0064",
+    campsites: 150
+  },
+  {
+    parkcode: "chir",
+    name: "Chiricahua National Monument",
+    location: "32.0136, -109.3423",
+    campsites: 100
+  },
+  {
+    parkcode: "chis",
+    name: "Channel Islands National Park",
+    location: "34.0069, -119.7785",
+    campsites: 115
+  },
+  {
+    parkcode: "choh",
+    name: "Chesapeake & Ohio Canal National Historical Park",
+    location: "39.1129, -77.1488",
+    campsites: 125
+  },
+  {
+    parkcode: "ciro",
+    name: "City Of Rocks National Reserve",
+    location: "42.0994, -113.6341",
+    campsites: 150
+  },
+  {
+    parkcode: "cong",
+    name: "Congaree National Park",
+    location: "33.7948, -80.7821",
+    campsites: 100
+  },
+  {
+    parkcode: "crla",
+    name: "Crater Lake National Park",
+    location: "42.8684, -122.1685",
+    campsites: 115
+  },
+  {
+    parkcode: "crmo",
+    name: "Craters Of The Moon National Monument & Preserve",
+    location: "43.2058, -113.5002",
+    campsites: 125
+  },
+  {
+    parkcode: "cuga",
+    name: "Cumberland Gap National Historical Park",
+    location: "36.6274, -83.6215",
+    campsites: 150
+  },
+  {
+    parkcode: "cuis",
+    name: "Cumberland Island National Seashore",
+    location: "30.8659, -81.4505",
+    campsites: 100
+  },
+  {
+    parkcode: "cure",
+    name: "Curecanti National Recreation Area",
+    location: "38.4657, -107.1667",
+    campsites: 115
+  },
+  {
+    parkcode: "cuva",
+    name: "Cuyahoga Valley National Park",
+    location: "41.2808, -81.5678",
+    campsites: 125
+  },
+  {
+    parkcode: "dena",
+    name: "Denali National Park & Preserve",
+    location: "63.1148, -151.1926",
+    campsites: 150
+  },
+  {
+    parkcode: "depo",
+    name: "Devils Postpile National Monument",
+    location: "37.6251, -119.085",
+    campsites: 100
+  },
+  {
+    parkcode: "deto",
+    name: "Devils Tower National Monument",
+    location: "44.5902, -104.7146",
+    campsites: 115
+  },
+  {
+    parkcode: "deva",
+    name: "Death Valley National Park",
+    location: "36.5323, -116.9325",
+    campsites: 125
+  },
+  {
+    parkcode: "dino",
+    name: "Dinosaur National Monument",
+    location: "40.4927, -108.9416",
+    campsites: 150
+  },
+  {
+    parkcode: "drto",
+    name: "Dry Tortugas National Park",
+    location: "24.6285, -82.8732",
+    campsites: 100
+  },
+  {
+    parkcode: "elma",
+    name: "El Malpais National Monument",
+    location: "34.9003, -107.9942",
+    campsites: 115
+  },
+  {
+    parkcode: "elmo",
+    name: "El Morro National Monument",
+    location: "35.0396, -108.3451",
+    campsites: 125
+  },
+  {
+    parkcode: "ever",
+    name: "Everglades National Park",
+    location: "25.7459, -80.555",
+    campsites: 150
+  },
+  {
+    parkcode: "fiis",
+    name: "Fire Island National Seashore",
+    location: "40.6554, -73.1034",
+    campsites: 100
+  },
+  {
+    parkcode: "gaar",
+    name: "Gates Of The Arctic National Park & Preserve",
+    location: "67.8819, -153.1861",
+    campsites: 115
+  },
+  {
+    parkcode: "gari",
+    name: "Gauley River National Recreation Area",
+    location: "38.209, -81.0147",
+    campsites: 125
+  },
+  {
+    parkcode: "gate",
+    name: "Gateway National Recreation Area",
+    location: "40.4397, -73.9887",
+    campsites: 150
+  },
+  {
+    parkcode: "gett",
+    name: "Gettysburg National Military Park",
+    location: "39.8132, -77.2337",
+    campsites: 100
+  },
+  {
+    parkcode: "glac",
+    name: "Glacier National Park",
+    location: "48.7596, -113.787",
+    campsites: 115
+  },
+  {
+    parkcode: "glba",
+    name: "Glacier Bay National Park & Preserve",
+    location: "58.6658, -136.9002",
+    campsites: 125
+  },
+  {
+    parkcode: "glca",
+    name: "Glen Canyon National Recreation Area",
+    location: "37.3867, -110.8424",
+    campsites: 150
+  },
+  {
+    parkcode: "goga",
+    name: "Golden Gate National Recreation Area",
+    location: "37.848, -122.5295",
+    campsites: 100
+  },
+  {
+    parkcode: "grba",
+    name: "Great Basin National Park",
+    location: "38.9833, -114.3",
+    campsites: 115
+  },
+  {
+    parkcode: "grca",
+    name: "Grand Canyon National Park",
+    location: "36.0548, -112.1222",
+    campsites: 125
+  },
+  {
+    parkcode: "gree",
+    name: "Greenbelt Park",
+    location: "38.9833, -76.8976",
+    campsites: 150
+  },
+  {
+    parkcode: "greg",
+    name: "Great Egg Harbor River",
+    location: "39.3043, -74.6496",
+    campsites: 100
+  },
+  {
+    parkcode: "grpo",
+    name: "Grand Portage National Monument",
+    location: "47.9623, -89.6848",
+    campsites: 115
+  },
+  {
+    parkcode: "grsa",
+    name: "Great Sand Dunes National Park & Preserve",
+    location: "37.7916, -105.5943",
+    campsites: 125
+  },
+  {
+    parkcode: "grsm",
+    name: "Great Smoky Mountains National Park",
+    location: "35.6118, -83.4895",
+    campsites: 150
+  },
+  {
+    parkcode: "grte",
+    name: "Grand Teton National Park",
+    location: "43.7904, -110.6818",
+    campsites: 100
+  },
+  {
+    parkcode: "guis",
+    name: "Gulf Islands National Seashore",
+    location: "30.3919, -88.7911",
+    campsites: 115
+  },
+  {
+    parkcode: "gumo",
+    name: "Guadalupe Mountains National Park",
+    location: "31.9231, -104.8645",
+    campsites: 125
+  },
+  {
+    parkcode: "hale",
+    name: "Haleakal&#257; National Park",
+    location: "20.7204, -156.1552",
+    campsites: 150
+  },
+  {
+    parkcode: "hosp",
+    name: "Hot Springs National Park",
+    location: "34.5217, -93.0424",
+    campsites: 100
+  },
+  {
+    parkcode: "hove",
+    name: "Hovenweep National Monument",
+    location: "37.3838, -109.0726",
+    campsites: 115
+  },
+  {
+    parkcode: "iatr",
+    name: "Ice Age National Scenic Trail",
+    location: "42.919, -88.4733",
+    campsites: 125
+  },
+  {
+    parkcode: "indu",
+    name: "Indiana Dunes National Park",
+    location: "41.6533, -87.0524",
+    campsites: 150
+  },
+  {
+    parkcode: "isro",
+    name: "Isle Royale National Park",
+    location: "47.9959, -88.9093",
+    campsites: 100
+  },
+  {
+    parkcode: "jotr",
+    name: "Joshua Tree National Park",
+    location: "33.8734, -115.90100000000001",
+    campsites: 115
+  },
+  {
+    parkcode: "katm",
+    name: "Katmai National Park & Preserve",
+    location: "58.6126, -155.0631",
+    campsites: 125
+  },
+  {
+    parkcode: "kefj",
+    name: "Kenai Fjords National Park",
+    location: "60.0438, -149.8164",
+    campsites: 150
+  },
+  {
+    parkcode: "klgo",
+    name: "Klondike Gold Rush National Historical Park",
+    location: "59.4535, -135.3185",
+    campsites: 100
+  },
+  {
+    parkcode: "kova",
+    name: "Kobuk Valley National Park",
+    location: "67.3356, -159.1243",
+    campsites: 115
+  },
+  {
+    parkcode: "labe",
+    name: "Lava Beds National Monument",
+    location: "41.7588, -121.5267",
+    campsites: 125
+  },
+  {
+    parkcode: "lacl",
+    name: "Lake Clark National Park & Preserve",
+    location: "60.4127, -154.3235",
+    campsites: 150
+  },
+  {
+    parkcode: "lake",
+    name: "Lake Mead National Recreation Area",
+    location: "36.1551, -114.4559",
+    campsites: 100
+  },
+  {
+    parkcode: "lamr",
+    name: "Lake Meredith National Recreation Area",
+    location: "35.6438, -101.5863",
+    campsites: 115
+  },
+  {
+    parkcode: "laro",
+    name: "Lake Roosevelt National Recreation Area",
+    location: "48.1011, -118.2466",
+    campsites: 125
+  },
+  {
+    parkcode: "lavo",
+    name: "Lassen Volcanic National Park",
+    location: "40.4977, -121.4207",
+    campsites: 150
+  },
+  {
+    parkcode: "lode",
+    name: "Lower Delaware National Wild and Scenic River",
+    location: "0.0, 0.0",
+    campsites: 100
+  },
+  {
+    parkcode: "maca",
+    name: "Mammoth Cave National Park",
+    location: "37.187, -86.1005",
+    campsites: 115
+  },
+  {
+    parkcode: "meve",
+    name: "Mesa Verde National Park",
+    location: "37.2309, -108.4618",
+    campsites: 125
+  },
+  {
+    parkcode: "mihi",
+    name: "Mississippi Hills National Heritage Area",
+    location: "0.0, 0.0",
+    campsites: 150
+  },
+  {
+    parkcode: "mnrr",
+    name: "Missouri National Recreational River",
+    location: "42.864, -97.3841",
+    campsites: 100
+  },
+  {
+    parkcode: "moja",
+    name: "Mojave National Preserve",
+    location: "35.1552, -115.4483",
+    campsites: 115
+  },
+  {
+    parkcode: "mora",
+    name: "Mount Rainier National Park",
+    location: "46.88, -121.7269",
+    campsites: 125
+  },
+  {
+    parkcode: "nabr",
+    name: "Natural Bridges National Monument",
+    location: "37.6041, -110.0052",
+    campsites: 150
+  },
+  {
+    parkcode: "natr",
+    name: "Natchez Trace Parkway",
+    location: "34.836067, -87.949074",
+    campsites: 100
+  },
+  {
+    parkcode: "nava",
+    name: "Navajo National Monument",
+    location: "36.681999999999995, -110.5329",
+    campsites: 115
+  },
+  {
+    parkcode: "neen",
+    name: "New England National Scenic Trail",
+    location: "0.0, 0.0",
+    campsites: 125
+  },
+  {
+    parkcode: "nepe",
+    name: "Nez Perce National Historical Park",
+    location: "45.3815, -117.23",
+    campsites: 150
+  },
+  {
+    parkcode: "neri",
+    name: "New River Gorge National River",
+    location: "37.8776, -81.0189",
+    campsites: 100
+  },
+  {
+    parkcode: "noat",
+    name: "Noatak National Preserve",
+    location: "68.1353, -159.907",
+    campsites: 115
+  },
+  {
+    parkcode: "noca",
+    name: "North Cascades National Park",
+    location: "48.7718, -121.2985",
+    campsites: 125
+  },
+  {
+    parkcode: "noco",
+    name: "North Country National Scenic Trail",
+    location: "42.9347, -85.3371",
+    campsites: 150
+  },
+  {
+    parkcode: "npnh",
+    name: "National Parks of New York Harbor",
+    location: "0.0, 0.0",
+    campsites: 100
+  },
+  {
+    parkcode: "obed",
+    name: "Obed Wild & Scenic River",
+    location: "36.1062, -84.5985",
+    campsites: 115
+  },
+  {
+    parkcode: "olym",
+    name: "Olympic National Park",
+    location: "47.8021, -123.6044",
+    campsites: 125
+  },
+  {
+    parkcode: "orca",
+    name: "Oregon Caves National Monument & Preserve",
+    location: "42.0955, -123.4043",
+    campsites: 150
+  },
+  {
+    parkcode: "orpi",
+    name: "Organ Pipe Cactus National Monument",
+    location: "32.0878, -112.9059",
+    campsites: 100
+  },
+  {
+    parkcode: "ozar",
+    name: "Ozark National Scenic Riverways",
+    location: "36.9209, -90.8985",
+    campsites: 115
+  },
+  {
+    parkcode: "pais",
+    name: "Padre Island National Seashore",
+    location: "27.4738, -97.2852",
+    campsites: 125
+  },
+  {
+    parkcode: "pefo",
+    name: "Petrified Forest National Park",
+    location: "34.91, -109.8068",
+    campsites: 150
+  },
+  {
+    parkcode: "pinn",
+    name: "Pinnacles National Park",
+    location: "36.4906, -121.1825",
+    campsites: 100
+  },
+  {
+    parkcode: "piro",
+    name: "Pictured Rocks National Lakeshore",
+    location: "46.5614, -86.3213",
+    campsites: 115
+  },
+  {
+    parkcode: "pisp",
+    name: "Pipe Spring National Monument",
+    location: "36.8629, -112.7397",
+    campsites: 125
+  },
+  {
+    parkcode: "pohe",
+    name: "Potomac Heritage National Scenic Trail",
+    location: "0.0, 0.0",
+    campsites: 150
+  },
+  {
+    parkcode: "pore",
+    name: "Point Reyes National Seashore",
+    location: "38.0512, -122.8663",
+    campsites: 100
+  },
+  {
+    parkcode: "prwi",
+    name: "Prince William Forest Park",
+    location: "38.5882, -77.3839",
+    campsites: 115
+  },
+  {
+    parkcode: "redw",
+    name: "Redwood National and State Parks",
+    location: "41.2132, -124.0046",
+    campsites: 125
+  },
+  {
+    parkcode: "rigr",
+    name: "Rio Grande Wild & Scenic River",
+    location: "0.0, 0.0",
+    campsites: 150
+  },
+  {
+    parkcode: "romo",
+    name: "Rocky Mountain National Park",
+    location: "40.3428, -105.6836",
+    campsites: 100
+  },
+  {
+    parkcode: "sacn",
+    name: "Saint Croix National Scenic Riverway",
+    location: "45.4162, -92.6468",
+    campsites: 115
+  },
+  {
+    parkcode: "sagu",
+    name: "Saguaro National Park",
+    location: "32.2967, -111.1666",
+    campsites: 125
+  },
+  {
+    parkcode: "samo",
+    name: "Santa Monica Mountains National Recreation Area",
+    location: "34.1029, -118.7074",
+    campsites: 150
+  },
+  {
+    parkcode: "sapu",
+    name: "Salinas Pueblo Missions National Monument",
+    location: "34.2596, -106.0933",
+    campsites: 100
+  },
+  {
+    parkcode: "seki",
+    name: "Sequoia & Kings Canyon National Parks",
+    location: "36.5647, -118.7727",
+    campsites: 115
+  },
+  {
+    parkcode: "shen",
+    name: "Shenandoah National Park",
+    location: "38.2928, -78.6796",
+    campsites: 125
+  },
+  {
+    parkcode: "slbe",
+    name: "Sleeping Bear Dunes National Lakeshore",
+    location: "44.8734, -86.0467",
+    campsites: 150
+  },
+  {
+    parkcode: "soca",
+    name: "South Carolina National Heritage Corridor",
+    location: "33.836082, -81.16372700000001",
+    campsites: 100
+  },
+  {
+    parkcode: "stsp",
+    name: "Star-Spangled Banner National Historic Trail",
+    location: "39.2653, -76.5796",
+    campsites: 115
+  },
+  {
+    parkcode: "thro",
+    name: "Theodore Roosevelt National Park",
+    location: "46.979, -103.5387",
+    campsites: 125
+  },
+  {
+    parkcode: "viis",
+    name: "Virgin Islands National Park",
+    location: "18.3424, -64.7486",
+    campsites: 150
+  },
+  {
+    parkcode: "voya",
+    name: "Voyageurs National Park",
+    location: "48.4841, -92.8271",
+    campsites: 100
+  },
+  {
+    parkcode: "whis",
+    name: "Whiskeytown National Recreation Area",
+    location: "40.6106, -122.52799999999999",
+    campsites: 115
+  },
+  {
+    parkcode: "whsa",
+    name: "White Sands National Park",
+    location: "32.7872, -106.3257",
+    campsites: 125
+  },
+  {
+    parkcode: "wica",
+    name: "Wind Cave National Park",
+    location: "43.6046, -103.4213",
+    campsites: 150
+  },
+  {
+    parkcode: "wrst",
+    name: "Wrangell - St Elias National Park & Preserve",
+    location: "61.7104, -142.9857",
+    campsites: 100
+  },
+  {
+    parkcode: "yell",
+    name: "Yellowstone National Park",
+    location: "44.428000000000004, -110.5885",
+    campsites: 115
+  },
+  {
+    parkcode: "yose",
+    name: "Yosemite National Park",
+    location: "37.8651, -119.5383",
+    campsites: 125
+  },
+  {
+    parkcode: "yuch",
+    name: "Yukon - Charley Rivers National Preserve",
+    location: "65.0, -143.5022",
+    campsites: 150
+  },
+  {
+    parkcode: "zion",
+    name: "Zion National Park",
+    location: "37.2982, -113.0263",
+    campsites: 100
+  }
+]
