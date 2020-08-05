@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>NPS Locator</title>
+  <link rel="icon" href="assets/images/favicon.png">
+
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+
+  <!-- For CSS -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>National Parks Locator</title>
+    <link rel="icon" href="assets/images/favicon.png">
+
+
+    <!-- Boostrap Stylesheet -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
+
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" href="assets/css/styles.css" media="screen">
+
+  
+</head>
+
+<body>
+  <!-- Start of navbar -->
+  <nav class="navbar navbar-default">
+      <div class="container-fluid navbar-custom">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle Navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <div class="col-xs-9 phone-nav">
+              <a class="navbar-brand" href="index.html" id="logo">National Parks           Locator +</a>
+            </div>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right navbar-right-custom">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Smart Recommender <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="visualizations/landscape-mountain.html">Landscape</a></li>
+                  <li><a href="visualizations/climate-hot.html">Climate</a></li>
+                  <li><a href="visualizations/activity.html">Activities</a></li>
+                  <li><a href="visualizations/recommendation.html">Recommender</a></li>
+                </ul>
+              </li>
+               <li><a href="comparison.html">Weather</a></li>
+               <li><a href="data.html">Survey Data</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </div><!-- /.container-fluid -->
+    </nav>
+    <!-- End of navbar -->
+
+
+  <!-- The div where to inject map -->
+  <div id="map"></div>
+  
+
+  <!-- API key -->
+  <script type="text/javascript" src="config.js"></script>
+  <!-- For JS -->
+  <script type="text/javascript" src="logic.js"></script>
+
+    <!-- For HTML (Data) -->
+    <!--  <script type="text/javascript" src="data.html"></script> -->
+</body>
+</html>

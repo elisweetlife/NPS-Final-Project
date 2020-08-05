@@ -1,0 +1,6 @@
+from sklearn import tree
+import pandas as pd
+import os
+
+df = pd.read_csv("favoritesActivity.csv")
+df.head()
