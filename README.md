@@ -1,4 +1,4 @@
-## NPS-Final-Project
+# National Parks Recommender Tool
 Incorporating mostly everything learned from the entire data science bootcamp. I, and a group of four other classmates formed to develop an interactive website that would give the user current and historical weather information, along with campground availability and critical informational notices from most major National Parks in the U.S mainland. The purpose of this site is to help the user determine optimal vacation plans based on their preferences. We also incorporated machine learning concepts, using a KNN (k-nearest neighbors) prediction algorithm to predict which National Park the user may be interested in visiting based on previously visited parks and a small dataset we built based on a user survey.
 
 
